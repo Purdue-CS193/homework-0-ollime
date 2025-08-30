@@ -1,4 +1,4 @@
-# Jennie Long's First CS193 Homework
+# Jennie's First CS193 Homework
 
 Favorite things about CS193
 - It teaches us important CS tools and skills
